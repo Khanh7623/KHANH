@@ -1,0 +1,138 @@
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.csprojAssemblyReference.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfoInputs.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfo.cs
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.CoreCompileInputs.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.input.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\Component1.razor.g.cs
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.output.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.deps.json
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.json
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.dev.json
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ref\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.pdb
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.input.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.output.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorCoreGenerate.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\Razor\Component1.razor.g.cs
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Manifest.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.xml
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\Component1.razor.rz.scp.css
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\bundle\ASM.Share.styles.css
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\projectbundle\ASM.Share.bundle.scp.css
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorTargetAssemblyInfo.cache
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ref\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.pdb
+D:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.genruntimeconfig.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.deps.json
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.json
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.dev.json
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ref\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.Share\bin\Debug\net5.0\ASM.Share.pdb
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.AssemblyReference.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.GeneratedMSBuildEditorConfig.editorconfig
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfoInputs.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfo.cs
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.CoreCompileInputs.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.input.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\Component1.razor.g.cs
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.output.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\RazorDeclaration\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.input.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.output.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorCoreGenerate.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\Razor\Component1.razor.g.cs
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Manifest.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.xml
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\Component1.razor.rz.scp.css
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\bundle\ASM.Share.styles.css
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\scopedcss\projectbundle\ASM.Share.bundle.scp.css
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorTargetAssemblyInfo.cache
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ref\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.pdb
+E:\Poly\C6\ASM\ASM\ASM.Share\obj\Debug\net5.0\ASM.Share.genruntimeconfig.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.deps.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.dev.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.AssemblyReference.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfo.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.input.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\Component1.razor.g.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.output.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\ASM.Share.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.input.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.output.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorCoreGenerate.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\Razor\Component1.razor.g.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\bundle\ASM.Share.styles.css
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\projectbundle\ASM.Share.bundle.scp.css
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Manifest.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Pack.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.ASM.Share.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.build.ASM.Share.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASM.Share.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASM.Share.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorTargetAssemblyInfo.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\refint\ASM.Share.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.genruntimeconfig.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.Share\obj\Debug\net5.0\ref\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.deps.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.runtimeconfig.dev.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\bin\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.AssemblyReference.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfoInputs.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.AssemblyInfo.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.input.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\Component1.razor.g.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorComponent.output.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\RazorDeclaration\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.input.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.TagHelpers.output.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorCoreGenerate.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\Razor\Component1.razor.g.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\bundle\ASM.Share.styles.css
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\scopedcss\projectbundle\ASM.Share.bundle.scp.css
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Manifest.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.Pack.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.ASM.Share.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.build.ASM.Share.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASM.Share.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASM.Share.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\staticwebassets\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.RazorTargetAssemblyInfo.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\refint\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ASM.Share.genruntimeconfig.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.Share\obj\Debug\net5.0\ref\ASM.Share.dll

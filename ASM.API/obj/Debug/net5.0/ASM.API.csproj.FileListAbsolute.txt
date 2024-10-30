@@ -1,0 +1,702 @@
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\appsettings.json
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.StaticWebAssets.xml
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.exe
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.deps.json
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.json
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.dev.json
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ref\ASM.API.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Humanizer.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csprojAssemblyReference.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfoInputs.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfo.cs
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CoreCompileInputs.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Manifest.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.xml
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\scopedcss\bundle\ASM.API.styles.css
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.RazorTargetAssemblyInfo.cache
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CopyComplete
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.dll
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ref\ASM.API.dll
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.pdb
+D:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.genruntimeconfig.cache
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Cors.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Http.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Http.Cors.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\appsettings.Development.json
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\appsettings.json
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.StaticWebAssets.xml
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.exe
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.deps.json
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.json
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.dev.json
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ref\ASM.API.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.API.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Humanizer.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Cors.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Http.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Web.Http.Cors.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.JSInterop.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.dll
+E:\Poly\C6\ASM\ASM\ASM.API\bin\Debug\net5.0\ASM.Share.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csproj.AssemblyReference.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfoInputs.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfo.cs
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CoreCompileInputs.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Manifest.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.xml
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\scopedcss\bundle\ASM.API.styles.css
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.RazorTargetAssemblyInfo.cache
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CopyComplete
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.dll
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ref\ASM.API.dll
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.pdb
+E:\Poly\C6\ASM\ASM\ASM.API\obj\Debug\net5.0\ASM.API.genruntimeconfig.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\appsettings.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.StaticWebAssets.xml
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.exe
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.deps.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.dev.json
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.AssemblyReference.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfo.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\scopedcss\bundle\ASM.API.styles.css
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Manifest.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Pack.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.ASM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.build.ASM.API.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASM.API.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASM.API.props
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.xml
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.RazorTargetAssemblyInfo.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CopyComplete
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\refint\ASM.API.dll
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.pdb
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.genruntimeconfig.cache
+C:\Users\khanh\Documents\Zalo Received Files\Assignment\ASM.API\obj\Debug\net5.0\ref\ASM.API.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\appsettings.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.StaticWebAssets.xml
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.StaticWebAssets.xml
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.exe
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.deps.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.runtimeconfig.dev.json
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.API.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\bin\Debug\net5.0\ASM.Share.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.AssemblyReference.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfoInputs.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.AssemblyInfo.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\scopedcss\bundle\ASM.API.styles.css
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Manifest.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.Pack.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.ASM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.build.ASM.API.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASM.API.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASM.API.props
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\staticwebassets\ASM.API.StaticWebAssets.xml
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.RazorTargetAssemblyInfo.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.csproj.CopyComplete
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\refint\ASM.API.dll
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.pdb
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ASM.API.genruntimeconfig.cache
+C:\Users\khanh\Desktop\blazor_web_Api_dotnet5\Assignment\ASM.API\obj\Debug\net5.0\ref\ASM.API.dll

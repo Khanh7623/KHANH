@@ -1,0 +1,50 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+    <div class="main">
+        <div class="top-row px-4">
+            <LoginControl />
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>
+        <div class="content px-4">
+            <AuthorizeView>
+                <Authorized>
+                    @Body
+                    @* code omitted for brevity *@
+                </Authorized>
+                <NotAuthorized>
+                    @Body
+                </NotAuthorized>
+            </AuthorizeView>
+        </div>
+    </div>
+</div>
+@code{
+    [CascadingParameter] protected Task<AuthenticationState> AuthStat { get; set; }
+    private string name;
+
+    protected async override Task OnInitializedAsync()
+    {
+        //context.User.Identity.Name
+        base.OnInitialized();
+        var user = (await AuthStat).User;
+        if (!user.Identity.IsAuthenticated)
+        {
+            NavigationManager.NavigateTo($"Login?returnUrl={Uri.EscapeDataString(NavigationManager.Uri)}");
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        //await sessionStorage.SetItemAsync("name", "John Smith");
+        //var name = await sessionStorage.GetItemAsync<string>("name");
+        //if (string.IsNullOrEmpty(name))
+        //{
+        //    NavigationManager.NavigateTo("login");
+        //}
+    }
+}
